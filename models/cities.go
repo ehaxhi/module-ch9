@@ -1,7 +1,7 @@
 package models
 
 import (
-	"data.go/data"
+	"github.com/ehaxhi/module-ch9/data"
 	"sort"
 	"strings"
 )

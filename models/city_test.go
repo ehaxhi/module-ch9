@@ -1,7 +1,7 @@
 package models_test
 
 import (
-	"models.go/models"
+	"github.com/ehaxhi/module-ch9/models"
 	"testing"
 )
 

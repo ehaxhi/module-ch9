@@ -2,7 +2,7 @@ package printer
 
 import (
 	"fmt"
-	"models.go/models"
+	"github.com/ehaxhi/module-ch9/models"
 	"os"
 	"text/tabwriter"
 )

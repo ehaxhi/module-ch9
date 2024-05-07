@@ -1,11 +1,11 @@
 package main
 
 import (
-	"data.go/data"
 	"flag"
 	"fmt"
-	"models.go/models"
-	"printer.go/printer"
+	"github.com/ehaxhi/module-ch9/data"
+	"github.com/ehaxhi/module-ch9/models"
+	"github.com/ehaxhi/module-ch9/printer"
 )
 
 func main() {
